@@ -2,6 +2,7 @@ streamlit_lottie
 scikit-learn
 model_selection
 preprocessing
+sklearn
 linear_model
 model_selection
 pandas
