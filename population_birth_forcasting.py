@@ -5,7 +5,7 @@ import warnings
 warnings.filterwarnings('ignore')
 from scikit-learn.model_selection import train_test_split
 from scikit-learn.preprocessing import StandardScaler
-from sklearn.linear_model import LinearRegression
+from scikit-learm.linear_model import LinearRegression
 from scikit-learn.model_selection import GridSearchCV
 
 def predict(country_name, year):
