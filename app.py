@@ -1,5 +1,4 @@
 import streamlit as st
-!pip install streamlit_lottie
 import json
 from streamlit_lottie import st_lottie
 from population_birth_forcasting import predict 
