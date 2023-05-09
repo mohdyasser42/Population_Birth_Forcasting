@@ -1,5 +1,5 @@
 streamlit_lottie
-sklearn
+scikit-learn
 model_selection
 preprocessing
 linear_model
