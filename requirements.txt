@@ -1,2 +1,1 @@
-/home/appuser/venv/bin/python pip install --upgrade pip
 python pip install streamlit_lottie
