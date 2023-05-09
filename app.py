@@ -3,7 +3,7 @@ import json
 from streamlit_lottie import st_lottie
 from population_birth_forcasting import predict 
 
-st.set_page_config(page_title="Population and Birth Prediction",page_icon= "🤖",layout="wide")
+st.set_page_config(page_title="Population and Birth Forcasting",page_icon= "🤖",layout="wide")
 
 animation = st.container()
 heading = st.container()
