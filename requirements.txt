@@ -1,7 +1,8 @@
 streamlit_lottie
-sklearn.model_selection
-sklearn.preprocessing
-sklearn.linear_model
-sklearn.model_selection
+sklearn
+model_selection
+preprocessing
+linear_model
+model_selection
 pandas
 numpy
