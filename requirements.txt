@@ -1,7 +1,7 @@
 streamlit_lottie
-train_test_split
-StandardScaler
-LinearRegression
-GridSearchCV
+sklearn.model_selection
+sklearn.preprocessing
+sklearn.linear_model
+sklearn.model_selection
 pandas
 numpy
