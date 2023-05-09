@@ -3,5 +3,6 @@ scikit-learn
 model_selection
 preprocessing
 model_selection
+linear_model
 pandas
 numpy
