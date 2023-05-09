@@ -1,8 +1,7 @@
 streamlit_lottie
-scikit-learn
+scikit-learn==0.24.2
 model_selection
 preprocessing
 model_selection
-sklearn.linear_model
 pandas
 numpy
