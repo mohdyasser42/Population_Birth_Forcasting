@@ -61,7 +61,7 @@ if submit_button and year_input:
             left_column, right_column = st.columns(2)
             with left_column:
                 st.write("Total Population Graph (in Thousands):")
-                st.bar_chart(prediction['Total Population'], width=0.5)
+                st.bar_chart(prediction['Total Population'], width=0.2)
                 st.write(f"➣ The Total Population in {country} is expected to experience an average annual increase of {value['value_1']}% from {start_yr} to {end_yr} according to forecasts.")
                 st.write("---")
                 st.write("Gender Population Graph (in Thousands):")
