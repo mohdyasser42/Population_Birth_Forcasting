@@ -75,6 +75,7 @@ if submit_button and year_input:
                 st.write("Birth Rate Graph:")
                 st.bar_chart(prediction['Birth Rate'])
                 st.write(f"➣ The Birth Rate in {country} is expected to experience an average annual change of {value['value_9']}% from {start_yr} to {end_yr} according to forecasts.")
+                st.write("---")
 
 
 
