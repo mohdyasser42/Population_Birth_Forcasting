@@ -3,13 +3,13 @@ import json
 from streamlit_lottie import st_lottie
 from forecasting_model import predict 
 
-st.set_page_config(page_title="Population and Birth Forecasting",page_icon= "📈",layout="wide")
+st.set_page_config(page_title="Population and Birth Forecasting Using Multivariate Linear Regression",page_icon= "📈",layout="wide")
 
 animation = st.container()
 heading = st.container()
 
 with heading:
-    st.markdown("<h1 style='text-align: center; margin: -2rem 0 1rem 0;'>Population and Birth Forecasting</h1>", unsafe_allow_html=True)
+    st.markdown("<h1 style='text-align: center; margin: -2rem 0 1rem 0;'>Population and Birth Forecasting Using Multivariate Linear Regression</h1>", unsafe_allow_html=True)
 
 def load_lottiefile(path:str):
     with open(path,"r") as p:
